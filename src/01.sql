@@ -1,0 +1,3 @@
+select address
+from stores;
+
